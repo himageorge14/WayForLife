@@ -45,7 +45,10 @@
         <activity android:name=".User.Report2" />
         <activity android:name=".User.CalendarEvents" />
         <activity android:name=".Admin.home_admin" />
-        <activity android:name=".Admin.ReportView"></activity>
+        <activity android:name=".Admin.ReportView" />
+        <activity android:name=".Admin.AdminEventAdd" />
+        <activity android:name=".Admin.AdminCalendar" />
+        <activity android:name=".EventDetailsAdmin"></activity>
     </application>
 
 </manifest>

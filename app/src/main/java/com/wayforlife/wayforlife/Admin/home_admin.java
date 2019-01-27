@@ -70,8 +70,9 @@ public class home_admin extends AppCompatActivity implements NavigationView.OnNa
                     startActivity(new Intent(home_admin.this,home_admin.class));
                     return true;
                 case R.id.events:
-                    startActivity(new Intent(home_admin.this,CalendarEvents.class));
+                    startActivity(new Intent(home_admin.this,AdminCalendar.class));
                     return true;
+
             }
             return false;
         }

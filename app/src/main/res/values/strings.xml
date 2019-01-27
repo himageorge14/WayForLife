@@ -37,4 +37,7 @@
     <string name="select_from_gallery">Select From Gallery</string>
     <string name="title_activity_calendar_events">CalendarEvents</string>
     <string name="remove">REMOVE</string>
+    <string name="add">ADD</string>
+    <string name="event">Event</string>
+    <string name="descr">Details</string>
 </resources>
